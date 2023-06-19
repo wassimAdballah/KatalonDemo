@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Profil et prfrences</name>
+   <tag></tag>
+   <elementGuidId>c9052dd9-43fa-4811-be0f-51cb5f1947d3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.h4-header-medium.text-Default</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='body-element']/div[2]/div[2]/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b6978071-1179-4448-9e9a-91ff1d7fe659</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>h4-header-medium text-Default</value>
+      <webElementGuid>90bfe817-3c2c-4844-af2e-100bc3db6364</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Profil et préférences</value>
+      <webElementGuid>69f0cadc-772f-497b-8f52-2dd49fbb27e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;body-element&quot;)/div[@class=&quot;d-flex&quot;]/div[2]/div[@class=&quot;d-flex flex-column grap-4 p-5 w-100&quot;]/div[@class=&quot;d-flex flex-row pb-4&quot;]/div[@class=&quot;h4-header-medium text-Default&quot;]</value>
+      <webElementGuid>e1cbd963-58e8-465d-a12e-ef165e3eb7a6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='body-element']/div[2]/div[2]/div/div/div</value>
+      <webElementGuid>fa6ab452-2a7e-44fd-a6f0-77856f06e339</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mon profil'])[1]/preceding::div[1]</value>
+      <webElementGuid>c2d102d9-41cd-4440-9f80-0e230f4cf907</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Paramètres généraux du profil'])[1]/preceding::div[6]</value>
+      <webElementGuid>078f86f3-ade5-473c-a5aa-d9ba055ee7ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div/div</value>
+      <webElementGuid>943b545c-6946-4e55-8e1b-0fabd3635d41</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Profil et préférences' or . = ' Profil et préférences')]</value>
+      <webElementGuid>27bdcf21-3ae7-413b-9435-3e41ad471ebb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

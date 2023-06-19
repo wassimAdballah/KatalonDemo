@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Profil et prfrences</name>
+   <tag></tag>
+   <elementGuidId>cb1c8bf3-8d8b-4e45-834d-8d6ee68e75f1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='navbar-element-printer']/div/div[2]/div/div/div/div/div[2]/button/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>ede5ce2d-e0f0-486d-8e41-3572c08318b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Profil et préférences </value>
+      <webElementGuid>1ada09c4-15eb-468f-a00f-1715be0eb09a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;navbar-element-printer&quot;)/div[@class=&quot;d-flex justify-content-end&quot;]/div[@class=&quot;navbar-links-responsive&quot;]/div[@class=&quot;d-flex flex-column&quot;]/div[@class=&quot;navbar-nav flex-column navbar-liste-btn-responsive&quot;]/div[@class=&quot;d-flex flex-column px-3 pt-3&quot;]/div[@class=&quot;d-flex flex-row justify-content-between&quot;]/div[@class=&quot;d-flex flex-column justify-content-start w-75&quot;]/button[@class=&quot;button-link-primary xsmall&quot;]/span[1]</value>
+      <webElementGuid>a728d9d6-1b8e-47f1-b112-3a44f0894d6a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='navbar-element-printer']/div/div[2]/div/div/div/div/div[2]/button/span</value>
+      <webElementGuid>67ecfe96-c79b-4319-bc8e-eb7b28cd3dbf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='wassim.abdallah@slashup.studio'])[1]/following::span[1]</value>
+      <webElementGuid>77e5b8b1-f3b8-4d31-90c1-ad74f1bef805</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Langue'])[1]/preceding::span[1]</value>
+      <webElementGuid>7151b450-a7dd-4607-afab-7966c3725f26</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Français'])[1]/preceding::span[3]</value>
+      <webElementGuid>4f11960a-3e58-4965-8a3b-5857a27f00aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/span</value>
+      <webElementGuid>af273487-a2e0-455e-a762-e2ac5bf37730</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' Profil et préférences ' or . = ' Profil et préférences ')]</value>
+      <webElementGuid>b60509f0-7412-421f-858f-a2e3b674dbba</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
